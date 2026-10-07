@@ -1,0 +1,6 @@
+{
+  "name": "SmartStore MS - Grocery Store Management System",
+  "description": "Comprehensive Grocery Store DBMS for inventory, sales POS, purchases, low-stock & expiry tracking, DBMS Viva SQL console, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
